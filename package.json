@@ -1,0 +1,33 @@
+{
+  "name": "get-files",
+  "version": "1.0.0",
+  "description": "npm package to files using both callback as well as \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Cs \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[either callback functions or functions that return Promise ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arghyadeep-k/get-files.git"
+  },
+  "keywords": [
+    "npm",
+    "download",
+    "file",
+    "async",
+    "promise",
+    "await",
+    "get"
+  ],
+  "author": "Arghyadeep Kundu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arghyadeep-k/get-files/issues"
+  },
+  "homepage": "https://github.com/arghyadeep-k/get-files#readme",
+  "dependencies": {
+    "async": "^3.1.0",
+    "async-get-file": "^1.0.2",
+    "download-file": "^0.1.5"
+  }
+}
