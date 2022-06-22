@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/arghyadeep-k/get-files#readme",
   "dependencies": {
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "async-get-file": "^1.0.2",
     "download-file": "^0.1.5"
   }
